@@ -1,0 +1,328 @@
+./.DS_Store
+./Calendar/Months/Tacoo.md
+./Calendar/Months/Jargyrah.md
+./Calendar/Months/Zatarine.md
+./Calendar/Months/Kulaadrim.md
+./Calendar/Months/Arialus.md
+./Calendar/Months/Parluan.md
+./Calendar/Months/Kangyrah.md
+./Calendar/Months/Korgyrah.md
+./Calendar/Months/Karaskethil.md
+./Calendar/Months/Cerlynre.md
+./Calendar/Months/Verija.md
+./Calendar/Months/Drimre.md
+./Calendar/Months/Kordaecath.md
+./Calendar/Holidays/Pellinteshal Arsurenial.md
+./Calendar/Holidays/Ashanaien.md
+./Calendar/Holidays/Ansrivarr.md
+./Calendar/Seasons/Spring.md
+./Calendar/Seasons/Summer.md
+./Calendar/Seasons/Autumn.md
+./Calendar/Seasons/Winter.md
+./Calendar/Weekdays/Alusnoresh.md
+./Calendar/Weekdays/Iquanoresh.md
+./Calendar/Weekdays/Ereknoresh.md
+./Calendar/Weekdays/Driinoresh.md
+./Calendar/Weekdays/Deshaeranoresh.md
+./Calendar/Weekdays/Maskanoresh.md
+./Calendar/Weekdays/Keshaeranoresh.md
+./Calendar/Weekdays/Dathnoresh.md
+./Magic/Amethyne Fabric of Magic.md
+./Magic/Schools of Magic/Air Magic.md
+./Magic/Schools of Magic/Archaic Magic.md
+./Magic/Schools of Magic/Earth Magic.md
+./Magic/Schools of Magic/Blood Magic.md
+./Magic/Schools of Magic/Amethyne Magic.md
+./Magic/Schools of Magic/Pact Magic.md
+./Magic/Schools of Magic/Elemental Magic.md
+./Magic/Schools of Magic/Fire Magic.md
+./Magic/Schools of Magic/Divine Magic.md
+./Images/Gobbuk screenshot-2.png
+./Images/Prince Broxx screenshot.png
+./Images/Ari Littomerea screenshot.png
+./Images/Braruun God of Fire screenshot.png
+./Images/Efthygra.png
+./Images/Breah Crowe screenshot.png
+./Images/Lady Hilbra  screenshot.png
+./Images/Taron Crowe screenshot.png
+./Images/.DS_Store
+./Images/The Shadow screenshot.png
+./Images/Narre Goddess of Life screenshot.png
+./Images/Mabalu screenshot.png
+./Images/Mevaan screenshot.png
+./Images/Dorian Strongman screenshot.png
+./Images/Lady Alya screenshot-2.png
+./Images/Raex Vale screenshot.png
+./Images/Faeras God of Magic screenshot.png
+./Images/Albrecht Elmwood screenshot.png
+./Images/Lona screenshot.png
+./Images/The Cinder Queen screenshot.png
+./Images/Tinker Longshot screenshot.png
+./Images/Rowan Stujice screenshot-2.png
+./Images/Anchesena Goddess of Knowledge screenshot.png
+./Images/Lady Querien screenshot-2.png
+./Images/Lady Querien screenshot.png
+./Images/LiaeyraAlusefeyre.png
+./Images/Sopack God of Water screenshot.png
+./Images/Duke Jameson Ulgar screenshot.png
+./Images/LadyAlya_screenshot-3.png
+./Images/Raex Vale screenshot-3.png
+./Images/Efthygran Map.png
+./Images/Stumbleduck Timbers screenshot.png
+./Images/Raex Vale screenshot-2.png
+./Images/Steelan God of Fortune screenshot.png
+./Images/Crazgus screenshot.png
+./Images/Efthygra 2026-05-17-00-00.png
+./Images/Bea Liza screenshot.png
+./Images/Orisia Goddess of Earth screenshot.png
+./Images/Alusafa God of War screenshot.png
+./Images/Glenn Orzowowski screenshot.png
+./Images/Navay Goddess of Deceit screenshot.png
+./Images/Lord Degar Estor screenshot.png
+./Images/Tanysa Goddess of the Hunt screenshot.png
+./Images/Efthygra Map.png
+./Images/Tanyso God of the Harvest screenshot.png
+./Images/Yandular Mazzaejuil screenshot.png
+./Images/Lord Kelba screenshot.png
+./Images/Kara Leffo screenshot.png
+./Images/Efthygra Biomes.png
+./Images/Morrom God of Death screenshot.png
+./Images/therdrin.png
+./Images/Efthygra Height Map.png
+./Images/Efthygra Kingdoms.png
+./_system/.DS_Store
+./_system/templates/Season.md
+./_system/templates/Lesser Deity.md
+./_system/templates/Group.md
+./_system/templates/Character.md
+./_system/templates/Holiday.md
+./_system/templates/Continent.md
+./_system/templates/Month.md
+./_system/templates/POI.md
+./_system/templates/Object.md
+./_system/templates/School of Magic.md
+./_system/templates/City.md
+./_system/templates/Media.md
+./_system/templates/Deity.md
+./_system/templates/Event.md
+./_system/templates/Location (General).md
+./_system/templates/Weekday.md
+./_system/templates/Animal.md
+./_system/templates/Notes.md
+./_system/templates/Race.md
+./_system/templates/Kingdom.md
+./Objects/Orb of Day and Night.md
+./Objects/Stone of Banishment.md
+./Objects/The Ethereal Staff of the Wanderer.md
+./Groups/Criminal Organizations/Cinderuga Clan.md
+./Groups/Criminal Organizations/White Crescent.md
+./Groups/Criminal Organizations/Vermillion Dusk.md
+./Groups/Criminal Organizations/Crime Syndicates.md
+./Groups/Criminal Organizations/Spyr Syndicate.md
+./Groups/Criminal Organizations/The Buuns.md
+./Groups/Religious Groups/Followers of Tanysa.md
+./Groups/Religious Groups/Athalan Elves.md
+./Groups/Religious Groups/Followers of Tanyso.md
+./Notes/To Do List.md
+./Notes/.DS_Store
+./Notes/The Chaos Wars/Series Overview (POV).md
+./Notes/The Chaos Wars/Change in World State.md
+./Notes/The Chaos Wars/Chaos Wars 1: Dark Sun (Outline).md
+./Notes/External Links.md
+./Notes/refs/Greek God Gemstone Ref.md
+./.chronicler.vault.json
+./Locations/.DS_Store
+./Locations/Continents/Dokartol (Continent).md
+./Locations/Continents/Tegem Isles.md
+./Locations/Continents/Chorvas.md
+./Locations/Continents/Toallo.md
+./Locations/Kingdoms/Dokartol (Kingdom).md
+./Locations/Kingdoms/Imikel.md
+./Locations/Kingdoms/The Valley Kingdom.md
+./Locations/Kingdoms/Kyros (Kingdom).md
+./Locations/Kingdoms/New Koilla (Kingdom).md
+./Locations/Kingdoms/Neofos (Kingdom).md
+./Locations/Kingdoms/Mokupi.md
+./Locations/Kingdoms/Nerovathia.md
+./Locations/Kingdoms/Tegem.md
+./Locations/Kingdoms/The Southern Kingdom.md
+./Locations/Kingdoms/Athalamere.md
+./Locations/Kingdoms/Crescencia.md
+./Locations/Kingdoms/The Northern Kingdom.md
+./Locations/Biomes/Athalan Forest.md
+./Locations/Biomes/Northern Mountains.md
+./Locations/Realms/ShadowRealm.md
+./Locations/Realms/Oceans.md
+./Locations/Realms/Land.md
+./Locations/Realms/FaeRealm.md
+./Locations/Realms/Skies.md
+./Locations/Realms/UnderCore.md
+./Locations/Cities/Syora (City).md
+./Locations/Cities/Mikelfall.md
+./Locations/Cities/Maskaruun.md
+./Locations/Cities/Kyros (City).md
+./Locations/Cities/Neofos (City).md
+./Locations/Cities/Moku.md
+./Locations/Cities/Koilla.md
+./Locations/Cities/Nyrora (City).md
+./Locations/Cities/Eye of the Isles.md
+./Locations/Cities/Neros.md
+./Locations/Cities/Crescenica City.md
+./Locations/Cities/Dokartol (City).md
+./Locations/Cities/New Koilla (City).md
+./Locations/Cities/Vandor Athala.md
+./Locations/Cities/Aruza.md
+./Locations/POIs/Buun Gallows.md
+./Locations/POIs/Mount Ash.md
+./Locations/POIs/White Ash Fortress.md
+./Locations/POIs/Crypt of the Underworld.md
+./_Important Pages/Calendar.md
+./_Important Pages/Efthygran Pantheon.md
+./_Important Pages/Efthygra.md
+./_Important Pages/Schools of Magic.md
+./_Important Pages/_Landing Page.md
+./Events/The First Divine War.md
+./Events/Re-Emergence.md
+./Events/The Alignment.md
+./Events/Dark Age.md
+./Events/The Chaos Wars.md
+./Events/Mortal Creation.md
+./Events/The Great Fire.md
+./Characters/Chaos Wars Books/Book 1 Additional/Tinker Longshot.md
+./Characters/Chaos Wars Books/Book 1 Additional/Brenna Blackstar.md
+./Characters/Chaos Wars Books/Book 1 Additional/Mevaan.md
+./Characters/Chaos Wars Books/Book 1 Additional/Yandular Mazzaejuil.md
+./Characters/Chaos Wars Books/Book 1 Additional/Joren Ferransky.md
+./Characters/Chaos Wars Books/Book 1 Additional/Kara Leffo.md
+./Characters/Chaos Wars Books/Book 1 Additional/Albrecht Elmwood.md
+./Characters/Chaos Wars Books/Book 1 Additional/Bea Liza.md
+./Characters/Chaos Wars Books/Book 1 Additional/Ari Littomerea.md
+./Characters/Chaos Wars Books/Book 1 Additional/Dorian Strongman.md
+./Characters/Chaos Wars Books/Book 1 Additional/Glenn Orzowowski.md
+./Characters/Chaos Wars Books/Book 1 Additional/Finn Ferus.md
+./Characters/Chaos Wars Books/Main Characters/Matrias Mahrei.md
+./Characters/Chaos Wars Books/Main Characters/Taron Crowe.md
+./Characters/Chaos Wars Books/Main Characters/Rowan Stujice.md
+./Characters/Chaos Wars Books/Main Characters/Breah Crowe.md
+./Characters/Chaos Wars Books/Main Characters/Liaeyra Alusefeyre.md
+./Characters/Chaos Wars Books/Main Characters/Kaelahaas LastName.md
+./Characters/Other Characters/Magic Creation Elf.md
+./Characters/.DS_Store
+./Characters/Fae/List of ArchFae.md
+./Characters/Hellspawn/.DS_Store
+./Characters/Hellspawn/Crazgus.md
+./Characters/Hellspawn/Mabalu.md
+./Characters/Vermillion Dusk Books/Alya Haltar.md
+./Characters/Vermillion Dusk Books/Lona Flamehead.md
+./Characters/Vermillion Dusk Books/Silas Haltar.md
+./Characters/Vermillion Dusk Books/Jameson Ulgar.md
+./Characters/Vermillion Dusk Books/Hilbra Fultree.md
+./Characters/Vermillion Dusk Books/Raex Vale.md
+./Characters/Vermillion Dusk Books/Degar Estor.md
+./Characters/Campaign/Lord Kelba.md
+./Characters/Campaign/The Cinder Queen.md
+./Characters/Campaign/Stumbleduck Timbers.md
+./Characters/Campaign/Gobbuk.md
+./Characters/Campaign/Pasifae.md
+./Characters/Campaign/Prince Broxx.md
+./Characters/Gods/Braruun.md
+./Characters/Gods/.DS_Store
+./Characters/Gods/Morrom.md
+./Characters/Gods/Sopack.md
+./Characters/Gods/Orisia.md
+./Characters/Gods/Narre.md
+./Characters/Gods/Therdrin.md
+./Characters/Gods/Navay.md
+./Characters/Gods/Kaelahaas.md
+./Characters/Gods/Tanysa.md
+./Characters/Gods/Anchesena.md
+./Characters/Gods/Faeras.md
+./Characters/Gods/Steelan.md
+./Characters/Gods/Alusafa.md
+./Characters/Gods/Tanyso.md
+./Races/.DS_Store
+./Races/Animals/Insect.md
+./Races/Animals/.DS_Store
+./Races/Animals/Fox.md
+./Races/Animals/Eagle.md
+./Races/Animals/Spider.md
+./Races/Animals/Umber Fox.md
+./Races/Animals/Bee.md
+./Races/Animals/Rabbit.md
+./Races/Animals/Bear.md
+./Races/Animals/Dolphin.md
+./Races/Animals/Crab.md
+./Races/Animals/Horse.md
+./Races/Animals/Dove.md
+./Races/Animals/Deer.md
+./Races/Animals/Tiger.md
+./Races/Animals/Butterfly.md
+./Races/Animals/Lizard.md
+./Races/Animals/Raccoon.md
+./Races/Animals/Snake.md
+./Races/Animals/Crow.md
+./Races/Animals/Bat.md
+./Races/Animals/Cat.md
+./Races/Animals/Unicorn.md
+./Races/Animals/Dragon.md
+./Races/Animals/Bird.md
+./Races/Sapient/Elf.md
+./Races/Sapient/Aarakocra.md
+./Races/Sapient/Faerie.md
+./Races/Sapient/Giant.md
+./Races/Sapient/.DS_Store
+./Races/Sapient/Satyr.md
+./Races/Sapient/Half-Orc.md
+./Races/Sapient/Gnome.md
+./Races/Sapient/Tabaxi.md
+./Races/Sapient/Kobold.md
+./Races/Sapient/Kenku.md
+./Races/Sapient/Imp.md
+./Races/Sapient/Goblin.md
+./Races/Sapient/Warforged.md
+./Races/Sapient/Mountain Dwarf.md
+./Races/Sapient/Earth Genasi.md
+./Races/Sapient/Harengon.md
+./Races/Sapient/Vampire.md
+./Races/Sapient/Dwarf.md
+./Races/Sapient/Aasimar.md
+./Races/Sapient/Lizardfolk.md
+./Races/Sapient/Minotaur.md
+./Races/Sapient/Shifter.md
+./Races/Sapient/Goliath.md
+./Races/Sapient/Half-Elf.md
+./Races/Sapient/Devil.md
+./Races/Sapient/Dark Elf.md
+./Races/Sapient/Hobgoblin.md
+./Races/Sapient/Orc.md
+./Races/Sapient/Custom Amphibious Race TBD.md
+./Races/Sapient/Firbolg.md
+./Races/Sapient/Air Genasi.md
+./Races/Sapient/Deep Gnome.md
+./Races/Sapient/Demon.md
+./Races/Sapient/High Elf.md
+./Races/Sapient/Human.md
+./Races/Sapient/Centaur.md
+./Races/Sapient/Tiefling.md
+./Races/Sapient/Shadow Elf.md
+./Races/Sapient/Genasi.md
+./Races/Sapient/Halfling.md
+./Races/Sapient/Quasit.md
+./Races/Sapient/Merfolk.md
+./Races/Sapient/Fae.md
+./Races/Sapient/Wood Elf.md
+./Races/Sapient/Sea Elf.md
+./Races/Sapient/Dragonborn.md
+./Races/Sapient/Bugbear.md
+./Media/Chaos Wars Book Series/.DS_Store
+./Media/Chaos Wars Book Series/The Chaos Wars: Light Ascended.md
+./Media/Chaos Wars Book Series/The Chaos Wars: Untamed Magic.md
+./Media/Chaos Wars Book Series/The Chaos Wars (Series).md
+./Media/Chaos Wars Book Series/The Chaos Wars: The Dark Age.md
+./Media/Chaos Wars Book Series/The Chaos Wars Series.md
+./Media/Chaos Wars Book Series/The Chaos Wars: The End of Times.md
+./Media/Chaos Wars Book Series/The Chaos Wars: A Turn of Fortune.md
+./Media/Chaos Wars Book Series/The Chaos Wars: Dark Sun.md
+./Media/DND Campaign/Heroes of Efthygra.md
+./Media/Vermillion Dusk Origin Series/Vermillion Dusk Origin Series.md
+./filelist.txt
